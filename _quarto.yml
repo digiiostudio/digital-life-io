@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: .  # 讓網頁產出在最外面，GitHub 才抓得到
 
 website:
   title: "Digital Life | I/O"
