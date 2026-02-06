@@ -1,10 +1,10 @@
 ---
 title: "Digital Life | I/O"
-listing:
-  contents: . # 這會讓 Quarto 搜尋目錄下所有的文章
-  sort: "date desc" # 按日期排序
-  type: default # 顯示標題、描述和縮圖的樣式
-  categories: true # 開啟側邊分類功能
 ---
 
-歡迎來到我的數位實驗室。在這裡，我記錄關於技術、設計與生活的各種「I/O」。
+![我們的重新出發](banner.jpg)
+
+## 最新文章
+
+### [Mac mini M4 Pro 的折舊與賺賠論：占桌比背後的 3 奈米革命](tool-myths-m4-pro.qmd)
+股市有賺有賠，但 M4 Pro 扣掉折舊，可能比你想的還划算...
