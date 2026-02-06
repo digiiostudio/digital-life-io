@@ -1,0 +1,10 @@
+---
+title: "Digital Life | I/O"
+listing:
+  contents: . # 這會讓 Quarto 搜尋目錄下所有的文章
+  sort: "date desc" # 按日期排序
+  type: default # 顯示標題、描述和縮圖的樣式
+  categories: true # 開啟側邊分類功能
+---
+
+歡迎來到我的數位實驗室。在這裡，我記錄關於技術、設計與生活的各種「I/O」。

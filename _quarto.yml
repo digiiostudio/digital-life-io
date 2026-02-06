@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Digital Life | I/O"
+  description: "卡關時刻、檔案人生，從這裡重新出發。"
+  navbar:
+    left:
+      - href: index.qmd
+        text: 首頁
+      - text: "卡關時刻"
+        href: stuck-moments.qmd
+      - text: "做選擇前"
+        href: before-choosing.qmd
+      - text: "工具迷思"
+        href: tool-myths.qmd
+      - text: "共學筆記"
+        href: learning.qmd
+      - text: "檔案人生"
+        href: archive-life.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
